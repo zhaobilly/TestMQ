@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <taskId>T00000000032</taskId>
+    <taskName>PreMaturityForAITask</taskName>
+    <component>PreMaturityForAI</component>
+    <desc>prematurity for AI task</desc>
+    <cuttime_check>F</cuttime_check>
+    <function/>
+    <sql-condition><![CDATA[]]></sql-condition>
+    <before-days-fld/>
+    <view-table/>
+    <tables/>
+    <sql-task/>
+    <report-list/>
+</root>
